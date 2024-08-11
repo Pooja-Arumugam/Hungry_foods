@@ -6,7 +6,7 @@ Import the CSV files to your local machine into a folder.
 #### Dataset creation and download:
 - Import the tables into the workbench by using the import dataset option
  - Import each table one at a time
-#### Sql Implementation:
+#### SQL Implementation:
 - The queries are listed separately in the queries folder
 - All the combined queries are present in the Hungry_foods_sql_Query file
 - Copy the queries and run them
