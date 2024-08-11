@@ -1,0 +1,217 @@
+//db.ratings.aggregate(
+//[
+  //{ $group: { _id: "$RATINGID", total: { $sum: "$RECIPEID" } } },
+  //{ $sort: { total: 1 } }
+  //]
+  //); 
+
+[{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ccf"
+  },
+  "RATINGID": 1216,
+  "RECIPEID": 110
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd0"
+  },
+  "RATINGID": 1380,
+  "RECIPEID": 110
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd1"
+  },
+  "RATINGID": 507,
+  "RECIPEID": 125
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd2"
+  },
+  "RATINGID": 940,
+  "RECIPEID": 178
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd3"
+  },
+  "RATINGID": 1384,
+  "RECIPEID": 178
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd4"
+  },
+  "RATINGID": 745,
+  "RECIPEID": 208
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd5"
+  },
+  "RATINGID": 352,
+  "RECIPEID": 282
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd6"
+  },
+  "RATINGID": 1177,
+  "RECIPEID": 282
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd7"
+  },
+  "RATINGID": 1188,
+  "RECIPEID": 282
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd8"
+  },
+  "RATINGID": 1360,
+  "RECIPEID": 282
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cd9"
+  },
+  "RATINGID": 606,
+  "RECIPEID": 365
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cda"
+  },
+  "RATINGID": 465,
+  "RECIPEID": 387
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cdb"
+  },
+  "RATINGID": 971,
+  "RECIPEID": 387
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cdc"
+  },
+  "RATINGID": 1224,
+  "RECIPEID": 387
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cdd"
+  },
+  "RATINGID": 433,
+  "RECIPEID": 452
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cde"
+  },
+  "RATINGID": 763,
+  "RECIPEID": 465
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cdf"
+  },
+  "RATINGID": 1098,
+  "RECIPEID": 493
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce0"
+  },
+  "RATINGID": 467,
+  "RECIPEID": 545
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce1"
+  },
+  "RATINGID": 480,
+  "RECIPEID": 545
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce2"
+  },
+  "RATINGID": 571,
+  "RECIPEID": 550
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce3"
+  },
+  "RATINGID": 695,
+  "RECIPEID": 550
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce4"
+  },
+  "RATINGID": 996,
+  "RECIPEID": 629
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce5"
+  },
+  "RATINGID": 393,
+  "RECIPEID": 716
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce6"
+  },
+  "RATINGID": 1392,
+  "RECIPEID": 800
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce7"
+  },
+  "RATINGID": 522,
+  "RECIPEID": 843
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce8"
+  },
+  "RATINGID": 524,
+  "RECIPEID": 843
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ce9"
+  },
+  "RATINGID": 818,
+  "RECIPEID": 843
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cea"
+  },
+  "RATINGID": 1264,
+  "RECIPEID": 843
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683ceb"
+  },
+  "RATINGID": 1308,
+  "RECIPEID": 843
+},
+{
+  "_id": {
+    "$oid": "656e498dc5e0d62587683cec"
+  },
+  "RATINGID": 659,
+  "RECIPEID": 899
+}]

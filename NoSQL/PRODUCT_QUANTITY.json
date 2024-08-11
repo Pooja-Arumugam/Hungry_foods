@@ -1,0 +1,274 @@
+// db.product.find({
+//$and:[{"PRODNAME":"Noodles"},
+//{"PRODQUANTITY":{$gt:5}}]
+//})
+[{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d2b"
+  },
+  "PRODNR": 3518,
+  "PRODNAME": "Popcorn",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 10
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d2c"
+  },
+  "PRODNR": 3827,
+  "PRODNAME": "Croissant",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 1
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d2d"
+  },
+  "PRODNR": 3854,
+  "PRODNAME": "Croissant",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 9
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d2e"
+  },
+  "PRODNR": 4064,
+  "PRODNAME": "French fries",
+  "PROD_TYPE": "LIQUID",
+  "PRODQUANTITY": 6
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d2f"
+  },
+  "PRODNR": 4114,
+  "PRODNAME": "Croissant",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 9
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d30"
+  },
+  "PRODNR": 4183,
+  "PRODNAME": "Hot dog",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 4
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d31"
+  },
+  "PRODNR": 4202,
+  "PRODNAME": "Ice cream",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 3
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d32"
+  },
+  "PRODNR": 4450,
+  "PRODNAME": "Waffles",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 8
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d33"
+  },
+  "PRODNR": 4527,
+  "PRODNAME": "Hot dog",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 2
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d34"
+  },
+  "PRODNR": 4530,
+  "PRODNAME": "Waffles",
+  "PROD_TYPE": "LIQUID",
+  "PRODQUANTITY": 1
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d35"
+  },
+  "PRODNR": 4564,
+  "PRODNAME": "Waffles",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 10
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d36"
+  },
+  "PRODNR": 4629,
+  "PRODNAME": "Popcorn",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 1
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d37"
+  },
+  "PRODNR": 4849,
+  "PRODNAME": "Hot dog",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 6
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d38"
+  },
+  "PRODNR": 5031,
+  "PRODNAME": "Croissant",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 10
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d39"
+  },
+  "PRODNR": 5437,
+  "PRODNAME": "Waffles",
+  "PROD_TYPE": "LIQUID",
+  "PRODQUANTITY": 7
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d3a"
+  },
+  "PRODNR": 5458,
+  "PRODNAME": "Ice cream",
+  "PROD_TYPE": "LIQUID",
+  "PRODQUANTITY": 10
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d3b"
+  },
+  "PRODNR": 5937,
+  "PRODNAME": "Sausages",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 5
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d3c"
+  },
+  "PRODNR": 6362,
+  "PRODNAME": "Popcorn",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 10
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d3d"
+  },
+  "PRODNR": 6395,
+  "PRODNAME": "Noodles",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 8
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d3e"
+  },
+  "PRODNR": 6522,
+  "PRODNAME": "Toast",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 3
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d3f"
+  },
+  "PRODNR": 6575,
+  "PRODNAME": "Sausages",
+  "PROD_TYPE": "LIQUID",
+  "PRODQUANTITY": 8
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d40"
+  },
+  "PRODNR": 6817,
+  "PRODNAME": "Waffles",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 9
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d41"
+  },
+  "PRODNR": 6826,
+  "PRODNAME": "Noodles",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 8
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d42"
+  },
+  "PRODNR": 6983,
+  "PRODNAME": "Ice cream",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 6
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d43"
+  },
+  "PRODNR": 7202,
+  "PRODNAME": "Noodles",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 4
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d44"
+  },
+  "PRODNR": 7354,
+  "PRODNAME": "Sausages",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 2
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d45"
+  },
+  "PRODNR": 7525,
+  "PRODNAME": "Hot dog",
+  "PROD_TYPE": "SOLID",
+  "PRODQUANTITY": 6
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d46"
+  },
+  "PRODNR": 7547,
+  "PRODNAME": "Toast",
+  "PROD_TYPE": "SEMI-LIQUID",
+  "PRODQUANTITY": 2
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d47"
+  },
+  "PRODNR": 8149,
+  "PRODNAME": "Hot dog",
+  "PROD_TYPE": "LIQUID",
+  "PRODQUANTITY": 4
+},
+{
+  "_id": {
+    "$oid": "656e49c5c5e0d62587683d48"
+  },
+  "PRODNR": 8229,
+  "PRODNAME": "Croissant",
+  "PROD_TYPE": "LIQUID",
+  "PRODQUANTITY": 2
+}]

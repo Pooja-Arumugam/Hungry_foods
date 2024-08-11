@@ -1,0 +1,37 @@
+// db.supplier.find({SUPNAME:"Duckering"}) 
+[{
+  "_id": {
+    "$oid": "656e49d7c5e0d62587683d4a"
+  },
+  "SUPNR": 496,
+  "SUPNAME": "Duckering",
+  "SUPADDRESS": "5066 Monument Way",
+  "PRODNR": 6395
+},
+{
+  "_id": {
+    "$oid": "656e49d7c5e0d62587683d4e"
+  },
+  "SUPNR": 1101,
+  "SUPNAME": "Duckering",
+  "SUPADDRESS": "5066 Monument Way",
+  "PRODNR": 7525
+},
+{
+  "_id": {
+    "$oid": "656e49d7c5e0d62587683d53"
+  },
+  "SUPNR": 2848,
+  "SUPNAME": "Duckering",
+  "SUPADDRESS": "2 Burrows Hill",
+  "PRODNR": 4629
+},
+{
+  "_id": {
+    "$oid": "656e49d7c5e0d62587683d56"
+  },
+  "SUPNR": 3795,
+  "SUPNAME": "Duckering",
+  "SUPADDRESS": "4 Bluestem Hill",
+  "PRODNR": 6826
+}]
