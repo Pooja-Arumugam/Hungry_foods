@@ -14,7 +14,7 @@ Import the CSV files to your local machine into a folder.
 - The queries are present as a JSON file in the NoSQl folder
 - Paste them to the MongoDB console tab on importing the dataset tablewise
 - Hit enter to run the queries
-#### Connecting Mysql Workbench to JupyterNotebook for Data Visualization:
+#### Connecting MySQL Workbench to JupyterNotebook for Data Visualization:
 - Connection from SQL server to Jupyter Notebook is done using Python
 - The commands are present in the Python implementation file
 - On changing the username and password run the Python scripts
